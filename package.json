@@ -1,0 +1,22 @@
+{
+  "name": "example-of-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markadrake/example-of-netlify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markadrake/example-of-netlify/issues"
+  },
+  "homepage": "https://github.com/markadrake/example-of-netlify#readme",
+  "dependencies": {
+    "@netlify/functions": "^1.2.0"
+  }
+}
