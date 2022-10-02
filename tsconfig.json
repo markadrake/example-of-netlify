@@ -6,7 +6,8 @@
 		"preserveConstEnums": true,
 		"sourceMap": true,
 		"esModuleInterop": true,
-		"isolatedModules": true
+		"isolatedModules": true,
+		"moduleResolution": "node"
 	},
 	"include": [
 		"src/**/*",
